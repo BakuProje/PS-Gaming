@@ -83,7 +83,7 @@ checkoutButton.addEventListener('click', function (e){
     const data = new URLSearchParams(formData);
     const objData = Object.fromEntries(data);
      const message = formatMessage(objData);
-     window.open('http://wa.me/6282349918631?text=' + encodeURIComponent(message));
+     window.open('http://wa.me/6285158963367?text=' + encodeURIComponent(message));
 
 });
 
